@@ -1,4 +1,4 @@
-Welcome to my **Weather** project! This is a simple and clean weather website built with JavaScript and React.js.
+Simple and clean weather website built with JavaScript and React.js.
 
 - Displays current weather information for different locations, that you can input with the search bar.
 - User-friendly interface for easy navigation.
